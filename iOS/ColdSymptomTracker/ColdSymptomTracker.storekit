@@ -1,0 +1,29 @@
+{
+  "identifier" : "ColdSymptomTracker",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "coldtracker_pro",
+      "localizations" : [
+        {
+          "description" : "Illness history archive and symptom-trend graph",
+          "displayName" : "Cold Symptom Tracker Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.coldtracker.pro",
+      "referenceName" : "Cold Symptom Tracker Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
