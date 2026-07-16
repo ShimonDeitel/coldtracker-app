@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: ColdSymptomTrackerTests
-      - path: ColdSymptomTracker.storekit
     dependencies:
       - target: ColdSymptomTracker
     settings:
